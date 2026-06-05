@@ -62,4 +62,4 @@ Aplikacja jest przeznaczona dla osob, ktore szukaja darmowych gier online i chca
 
 ## Link do repozytorium
 
-Do uzupelnienia po utworzeniu publicznego repozytorium, np. `https://github.com/nazwa-uzytkownika/gameinsight`.
+https://github.com/NoGloryx/GameInsight
